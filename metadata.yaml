@@ -1,0 +1,52 @@
+_repo: Tics-and-Their-Treatment_39822
+_version: 0.1.0
+contributor:
+  author_of_introduction:
+    agent_name: Brissaud, Édouard
+    alias: Brissaud, Edouard
+    birthdate: 1852
+    deathdate: 1909
+    gutenberg_agent_id: '45446'
+    url: http://www.gutenberg.org/2009/agents/45446
+  translator:
+    agent_name: Wilson, S. A. Kinnier (Samuel Alexander Kinnier)
+    aliases:
+    - Wilson, Samuel Alexander Kinnier
+    - Wilson, S.A.K.
+    - Wilson, S. A. K. (Samuel Alexander Kinnier)
+    birthdate: 1878
+    deathdate: 1937
+    gutenberg_agent_id: '40251'
+    url: http://www.gutenberg.org/2009/agents/40251
+covers:
+- cover_type: archival
+  image_path: 39822-h/images/cover.jpg
+creator:
+  authors:
+  - agent_name: Feindel, E. (Eugène)
+    aliases:
+    - Feindel, Eugene
+    - Feindel, Eugène Clement Louis
+    - Feindel, Eugène
+    birthdate: 1862
+    gutenberg_agent_id: '40249'
+    url: http://www.gutenberg.org/2009/agents/40249
+  - agent_name: Meige, Henry
+    birthdate: 1866
+    deathdate: 1940
+    gutenberg_agent_id: '40248'
+    url: http://www.gutenberg.org/2009/agents/40248
+description: ''
+gutenberg_issued: '2012-05-27'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '39822'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'RC'
+- !lcsh 'Tic disorders'
+title: Tics and Their Treatment
+url: http://www.gutenberg.org/ebooks/39822
